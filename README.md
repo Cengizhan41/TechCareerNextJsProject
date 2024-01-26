@@ -1,2 +1,2 @@
 # Tech Career TMDB-NETFLIX Clone Project
-tmdb-netflix klonu
+A netflix clone by using TMDB API
